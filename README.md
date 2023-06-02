@@ -2,11 +2,13 @@
 
 ***This is a simle phishiy URL detector***
 
- + **SIMLE USAGE:-**
+ + **SIMLE USAGE Output:-**
 
-**Enter URL or Link:** ***https://localhost:90084/index.html***
+|-----------------------------------------------------------------------------------------|
+| Enter a URL or Link: https://web.example.com/php?redirect=http://example.com/index.html |
+|-----------------------------------------------------------------------------------------|
+```
+This is a Phishing website and is also unsafe do not visit it
+```
 
-+ **Output**
-**The Website is phishing don't visit it!**
-
-`this is just a simple detector, super update is comming soon!`
+This is just a simple detector, super update is comming soon!
