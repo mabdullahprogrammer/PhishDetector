@@ -4,7 +4,7 @@ By: Muhammad Abdullah
 Coded In: Python3
 Ver: 3.0
 Email: mabdullahprogrammer@gmail.com
-Git-Hub: https://github.com/Muhammad-Abdullah-Programmer/PhishDetector/
+Git-Hub: https://github.com/mabdullahprogrammer/PhishDetector/
 Original Concept By: Muhammad Abdullah
 """
 
