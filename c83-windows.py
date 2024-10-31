@@ -8,7 +8,6 @@ packages = [
     'pynput',
     'opencv-python',
     'pyautogui',
-    'opencv-python',
     'keyboard',
     'pycaw',
     'vidstream'
